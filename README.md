@@ -1,3 +1,3 @@
 # Demo 
 
-Create a repository. 
+Create a repository!
